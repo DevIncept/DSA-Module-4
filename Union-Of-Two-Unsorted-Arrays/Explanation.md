@@ -38,4 +38,4 @@ void printUnion(vector<int> arr1, vector<int> arr2) {
 ```
 
 
-<h3 align="center"> Contributed by <a href="https://github.com/Raghavagr">Raghav Agrawal</a> With ❤️.</h3>
+<h3 align="center"> Contributed by <a href="https://github.com/KunalMahato11">Kunal Mahato</a> With ❤️.</h3>

@@ -93,10 +93,12 @@ int main()\
         printf("Search Not Found\n");\
     return 0;\
 }\
+
 #### Output :
 <img src="https://github.com/NihalSuresh007/DSA/blob/main/dsa-cp-1/Open%20Addressing%20%26%20Chaining/Chaining.png" alternate="input">\
 **Explanation:** Let's assume table size as 3.
 Then the array of linked list will be,
+
 -------------         -------------
 |           |         |           |
 | chain[0]  |-------> |    NULL   |
@@ -112,10 +114,12 @@ Then the array of linked list will be,
 | chain[2]  |-------> |    NULL   |
 |           |         |           |
 -------------         -------------
+
 Initialize each list to NULL.
 Insert 6
 Hash key = 6 % 3 = 0.
 Hence add the node with data 6 in the chain[0].
+
  -------------         ----------------
  |           |         |     |        |
  | chain[0]  |-------> |  6  | NULL   |
@@ -131,6 +135,7 @@ Hence add the node with data 6 in the chain[0].
  | chain[2]  |-------> |    NULL   |
  |           |         |           |
  -------------         -------------
+
 
 Contributed by [NihalSuresh](https://github.com/NihalSuresh007) , If you find it helpful , don't forget to drop a like 💖	Contributed by [NihalSuresh](https://github.com/NihalSuresh007) 😊 , If you find it helpful , don't forget to drop a like 💖
 ##### connect with NihalSuresh 😊	

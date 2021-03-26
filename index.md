@@ -1,21 +1,21 @@
 # DSA-Module-4
 
-1. [Part1: Leftmost-Character](Leftmost-Character/What&Why.md)
+1. [Part1: Leftmost Character](Leftmost-Character/What&Why.md)
 
-2. [Part2: Best, avg and worst case analysis](Best-avg-and-worst-case-analysis/How.md)
+2. [Part2: Lexicographic Rank](Lexicographic-Rank/What_and_Why.md)
 
-3. [Part3: Big-O-Notation](Big-O-Notation/Big-O-Notation-How.md)
+3. [Part3: Open Addressing & Chaining](Open-Addressing-&-Chaining/What&Why.md)
 
-4. [Part4: Check if Tree is Binary](Check-if-Tree-is-Binary/How.md)
+4. [Part4: Pattern Searching](Pattern-Searching/What_&_Why.md)
 
-5. [Part5: Check-Anagrams](Check-Anagrams/Explanation.md)
+5. [Part5: Rabin Karp Algorithm](Rabin-Karp-Algorithm/What_&_Why.md)
 
-6. [Part6: Count Distnct Elements](Count-Distnct-Elements/How.md)
+6. [Part6: Space Complexity](Space-Complexity/What&Why.md)
 
-7. [Part7: FIFO](FIFO/How.md)
+7. [Part7: Stack Using Queues](Stack-Using-Queues/What_&_Why.md)
 
-8. [Part8: Hashing and Collision](Hashing-and-Collision/How.md)
+8. [Part8: Theta and Omega Notation](Theta-and-Omega-Notation/What_&_Why.md)
 
-9. [Part9: KMP Algorithm](KMP-Algorithm/How.md)
+9. [Part9: Two Stacks In An Array(Two-Stacks-In-An-Array/What&Why.md)
 
-10. [Part10: LIFO](LIFO/How.md)
+10. [Part10: Union Of Two Unsorted Arrays](Union-Of-Two-Unsorted-Arrays/Explanation.md)

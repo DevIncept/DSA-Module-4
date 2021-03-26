@@ -16,6 +16,6 @@
 
 8. [Part8: Theta and Omega Notation](Theta-and-Omega-Notation/What_&_Why.md)
 
-9. [Part9: Two Stacks In An Array(Two-Stacks-In-An-Array/What&Why.md)
+9. [Part9: Two Stacks In An Array](Two-Stacks-In-An-Array/What&Why.md)
 
 10. [Part10: Union Of Two Unsorted Arrays](Union-Of-Two-Unsorted-Arrays/Explanation.md)
